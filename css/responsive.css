@@ -1,0 +1,81 @@
+@media all and (min-width: 1024px) and (max-width: 1280px) {
+	.infdiv
+	{
+		bottom: 33vw;
+	}
+}
+@media all and (max-width: 980px) {
+	.infdiv
+	{
+		bottom: 33vw;
+	}
+}
+@media all and (min-width: 768px) and (max-width: 1024px) {
+	.infdiv
+	{
+		font-size: 12px;
+		bottom: 250px;
+	}
+	.infdiv h1
+	{
+		font-size: 18px;
+		font-weight: bold;
+	}
+	.imgcarousel
+	{
+		transform: scale(2,2);
+		height: 250px !important;
+	}
+
+}
+@media all and (min-width: 480px) and (max-width: 768px) {
+	.infdiv
+	{
+		font-size: 12px;
+		bottom: 250px;
+	}
+	.infdiv h1
+	{
+		font-size: 18px;
+		font-weight: bold;
+	}
+	.imgcarousel
+	{
+		transform: scale(2,2);
+		height: 250px !important;
+	}
+}
+@media all and (max-width: 480px) {
+	.infdiv
+	{
+		font-size: 12px;
+		bottom: 440px;
+	}
+	.infdiv h1
+	{
+		font-size: 18px;
+		font-weight: bold;
+	}
+	.imgcarousel
+	{
+		transform: scale(3,2);
+		height: 450px !important;
+	}
+}
+@media all and (max-width: 320px) {
+	.infdiv
+	{
+		font-size: 12px;
+		bottom: 440px;
+	}
+	.infdiv h1
+	{
+		font-size: 18px;
+		font-weight: bold;
+	}
+	.imgcarousel
+	{
+		transform: scale(3,2);
+		height: 450px !important;
+	}
+}

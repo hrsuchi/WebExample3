@@ -1,0 +1,280 @@
+@import 'https://fonts.googleapis.com/css?family=Montserrat:400,700';
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Montserrat', sans-serif !important;
+	font-weight: bold !important;
+}
+body{
+	font-family: 'Oxygen', sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+}
+
+#article{
+	padding: 3em 1em;
+}
+
+#agnikanashead{
+	background-image: url(..//img/Agnikanas-Group.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 12% 0;
+	background-position: top center;
+	background-attachment: fixed;
+}
+
+#agnikanashead{
+	color: white;
+}
+
+#agnikanashead h3{
+	font-size: 40px;
+	font-weight: bolder;
+}
+
+.concertitulo{
+	margin-top: 1em;
+	font-size: 2em;
+}
+
+#headereventinfo{
+	background-image: url(..//img/guitarras.png);
+	background-size: cover;
+	background-repeat: no-repeat center center;
+}
+
+#headereventinfo h3{
+	font-size: 48px;
+	color: white;
+	margin-bottom: 1em;
+}
+
+#headereventinfo p{
+	line-height: 1.5;
+	color: white;
+	margin-top: 1.3em;
+}
+
+.header-btn{
+	display: inline-block;
+	margin-top: 2em;
+}
+
+a {
+	text-decoration: none;
+	color: #282828;
+}
+
+
+a:hover{
+	text-decoration: none;
+}
+
+#actual{
+	padding: 10% 0;
+	background-image: url(..//img/flautatransversal.jpg);
+	background-repeat: no-repeat center center;
+	background-size: cover;
+}
+
+#brandnamenav{
+	color: white;
+	display: inline-block;
+	margin-left: 1em;
+}
+
+.cartelera{
+	margin: 2em auto;
+}
+
+.cartelera h3{
+	text-align: left;
+	margin-bottom: -1.5em;
+}
+
+.carousel{
+
+}
+
+.cdafooter{
+	margin: 3em 0 0 0;
+}
+
+footer h3{
+	font-size: 45px;
+}
+
+footer{
+	margin: 0 0 5em 0;
+}
+
+footer p{
+	font-size: 1.8em;
+}
+
+.descriptionevent{
+	padding: 3em 0 0 0;
+}
+
+#infoheader{
+	color: white;
+}
+
+
+.imgevent{
+	width: 100%;
+}
+
+.eventrow{
+	margin: 2em 0 2em 0;
+}
+
+.lineamorada{
+	width: 100%;
+	height: 15px;
+	background-color: #65a6f6;
+	margin: 0 0 5em 0;
+}
+
+.lineagris{
+	height: 1px;
+	background-color: #858585;
+	margin: 2em 0;
+}
+
+#logonav{
+	width: 30px;
+	display: inline-block;
+	margin-top: -.4em;
+}
+
+nav{
+	background-color: #65a6f6 !important;
+	margin:0 !important;
+	border: none !important;
+	border-radius: 0 !important;
+}
+
+nav ul li a{
+	color: white !important;
+	font-size: 12px !important;
+	font-weight: bolder;
+}
+
+nav ul li a:hover{
+	color: #1472ba !important;
+}
+
+input{
+	margin: 1em 0;
+}
+
+select{
+	width: 100%;
+}
+
+#headereventinfo{
+	background-image: url(..//img/guitarras.png);
+	padding: 10% 0;
+	background-position: top center;
+}
+
+#headerindex{
+	background-image: url(..//img/headerimg1.jpg);
+	padding: 12% 0;
+	background-position: center center;
+	background-repeat: no-repeat;
+	/*background-size: 100%;*/
+	background-size: cover;
+	margin-top: -4em;
+	margin-bottom: 2em;
+}
+
+#headerindex h2{
+	font-size: 50px;
+	font-weight: bolder;
+	color: white;
+}
+
+#headerlogo{
+	width: 5em;
+}
+
+#om{
+	max-width: 200px;
+	margin-top: -6px;
+}
+
+.imgcarousel{
+	width: 100%;
+}
+
+#sectitular{
+	color: white;
+	font-size: 3em;
+}
+
+#titularacutal{
+	font-size: 3em;
+	margin:2em 0 1em 0;
+}
+
+#bruno{
+	background-image: url(../img/meditando.jpg);
+}
+
+.imgevent1{
+	width:100%;
+	padding:1px;
+}
+
+.margen{
+	margin:0;
+	padding:0;
+}
+
+#sri{
+	width: 100%;
+	max-width: 300px;
+	border-radius:50%;
+	border-color: #65a6f6;
+	border:solid 8px #65a6f6;
+	margin: 1em 0 2em 0;
+}
+
+.titularregular{
+	font-size: 48px;
+}
+
+.bg2{
+	background-color: #F6F6F6;
+	padding: 4em 0 4em 0;
+}
+.imgcarousel
+{
+	-webkit-filter: brightness(74%);
+}
+.infdiv
+{
+	display: flex;
+	margin: 0 auto;
+	position: relative;
+	width: 80%;
+	bottom: 22vw;
+	height: 0;
+}
+.infdiv *
+{
+	color: #fff;
+}
+.infdiv div:nth-child(1)
+{
+		width: 50%;
+}
+.infdiv div:nth-child(2)
+{
+	width: 50%;
+}
+
+.titlevent{
+	margin-top: 12%;
+}
